@@ -1,0 +1,59 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+
+.center{
+	padding: 0;
+	margin: auto;
+}
+.clear{
+	float: none;
+	clear: both;
+}
+#bg .kanan{
+	width: 100%;
+	background-color: #1FA0C8;
+	text-align : center;
+	padding: 0;
+	padding-top: 200px;
+	margin: 0;
+	padding-bottom: 230px;
+	float: right;
+}
+#bg .kanan .title{
+	font-size: 30px;
+	vertical-align: 50px;
+	color: white;
+	margin-bottom: 25px;
+}
+#bg .kanan .input{
+	background-color: #1FA0C8;
+	padding: 10px 20px;
+	border-radius: 25px;
+	border: 2px solid #fff;
+	margin: 5px 0;
+	color: white;
+	font-size: 18px;
+}
+#bg .kanan .input::-webkit-input-placeholder{
+  color: white;
+}
+#bg .kanan .submit{
+	padding: 15px 120px;
+	margin-top: 30px;
+	border-radius: 25px;
+	background-color: #fff;
+	color: #1FA0C8;
+	text-transform: uppercase;
+	text-align: center;
+	border: none;
+	font-weight: bold;
+	font-size: 18px;
+}
+#bg .kanan .submit:hover{
+	background-color: #105ee7;
+	color: #fff;
+	transition: .4s;
+}

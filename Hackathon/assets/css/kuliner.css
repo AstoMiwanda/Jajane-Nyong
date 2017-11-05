@@ -393,7 +393,7 @@ body{
 	padding-top: 20px;
 	margin-top: 0;
 	text-align: center;
-	display: inline-block;
+	float: left;
 	border: 1px solid #e1e1e1;
 	border-radius: 5px;
 }
@@ -423,4 +423,18 @@ body{
 #toko .produk-ranting{
 	width: 15px;
 	height: 15px;
+}
+#toko .produkKhas-title{
+	font-size: 18pt;
+	font-weight: bold;
+	color: #222;
+	text-align: center;
+	margin-top: 50px;
+}
+#toko .line{
+	width: 350px;
+	height: 3px;
+	background-color: #444;
+	margin: auto;
+	margin-top: 5px;
 }

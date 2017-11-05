@@ -71,7 +71,7 @@
     						<td><h1>Rp 10.000,-</h1></td>
     					</tr>
     				</table>
-    				<button onclick="location.href='beranda.php'">Hubungi Penjual</button>
+    				<button onclick="location.href='toko.php'">Hubungi Penjual</button>
     			</div>
     		</div>
   		</div>

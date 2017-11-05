@@ -1,0 +1,107 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+
+.center{
+	padding: 0;
+	margin: auto;
+}
+.clear{
+	float: none;
+	clear: both;
+}
+
+#bg{
+	margin: 0;
+	overflow: hidden;
+	background-image: url(../img/loog.png);
+	background-position: center;
+	background-size: cover;
+	min-height: 680px;
+}
+#bg .kiri{
+	width: 50%;
+	padding: 0;
+	padding-top: 200px;
+	margin: 0;
+	float: left;
+}
+#bg .kiri .title{
+	font-size: 30px;
+	color: #fff;
+	text-align: center;
+	text-transform: uppercase;
+}
+#bg .kiri .content{
+	padding-top: 50px;
+	padding-bottom: 80px;
+	width: 360px;
+	text-align: center;
+	color: #f1f1f1;
+	font-size: 14px;
+	line-height: 18px;
+	margin: auto;
+}
+#bg .kiri .btn-kiri{
+	color: #fff;
+	font-size: 18px;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding: 15px 80px;
+	text-align: center;
+	background-color: #105ee7;
+	border-radius: 25px;
+}
+#bg .kiri .btn-kiri:hover{
+	color: #105ee7;
+	background-color: #fff;
+	transition: .4s;
+}
+#bg .kanan{
+	width: 50%;
+	background-color: rgba(123,165,186,0.8);
+	text-align: center;
+	padding: 0;
+	padding-top: 200px;
+	margin: 0;
+	padding-bottom: 230px;
+	float: right;
+}
+#bg .kanan .title{
+	font-size: 30px;
+	vertical-align: 50px;
+	color: #fff;
+	margin-bottom: 25px;
+}
+#bg .kanan .input{
+	background-color: rgba(0,0,0,0);
+	padding: 10px 20px;
+	border-radius: 25px;
+	border: 2px solid #fff;
+	margin: 5px 0;
+	color: #fff;
+	font-size: 18px;
+}
+#bg .kanan .input::-webkit-input-placeholder{
+  color: #fff;
+}
+#bg .kanan .submit{
+	padding: 15px 120px;
+	margin-top: 30px;
+	border-radius: 25px;
+	background-color: #fff;
+	color: #105ee7;
+	text-transform: uppercase;
+	text-align: center;
+	border: none;
+	font-weight: bold;
+	font-size: 18px;
+}
+#bg .kanan .submit:hover{
+	background-color: #105ee7;
+	color: #fff;
+	transition: .4s;
+}

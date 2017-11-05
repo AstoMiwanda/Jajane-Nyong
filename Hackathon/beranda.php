@@ -13,9 +13,9 @@
 			<ul>
 				<li><a href="beranda.php">Home</a></li>
 				<li><a href="makananKhas.php">Makanan Khas</a></li>
-				<li><a href="beranda.php">Minuman Khas</a></li>
-				<li><a href="beranda.php">Kontak</a></li>
-				<li><a href="beranda.php">Masuk</a></li>
+				<li><a href="minumanKhas.php">Minuman Khas</a></li>
+				<li><a href="kontak.php">Kontak</a></li>
+				<li><a href="daftar.php">Masuk</a></li>
 			</ul>
 		</div>
 	</div>
@@ -24,7 +24,7 @@
 		<div class="title">
 			Kami menyediakan berbagai macam<br/>makanan dan minuman khas Banyumas untuk anda.
 		</div>
-		<a href="#" class="btn">Selengkapnya</a>
+		<a href="kontak.php" class="btn">Selengkapnya</a>
 	</div>
 	<div class="clear"></div>
 </div>
@@ -149,7 +149,7 @@
 				</div>
 			</div>
 		</div>
-		<a href="#" class="btn">Selengkapnya</a>
+		<a href="makananKhas.php" class="btn">Selengkapnya</a>
 	</div>
 	<div class="clear"></div>
 	<div class="center">
@@ -266,7 +266,7 @@
 				</div>
 			</div>
 		</div>
-		<a href="#" class="btn">Selengkapnya</a>
+		<a href="minumanKhas.php" class="btn">Selengkapnya</a>
 	</div>
 	</div>
 	<div class="clear"></div>
