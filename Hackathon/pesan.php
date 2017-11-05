@@ -71,7 +71,8 @@
     						<td><h1>Rp 10.000,-</h1></td>
     					</tr>
     				</table>
-    				<button onclick="location.href='toko.php'">Hubungi Penjual</button>
+    				<button class="btn">Kunjungi Toko</button>
+    				<button onclick="location.href='toko.php'">Kunjungi Toko</button>
     			</div>
     		</div>
   		</div>
@@ -79,6 +80,39 @@
 	</div>
 	<!-- Modal Box -->
 </div>
+
+<div id="hub" class="modal">
+
+  	<!-- Modal content -->
+  		<div class="modal-content">
+    		<span class="close">&times;</span>
+    		<div class="penjual">
+    			<div class="penjual-data">
+    				<span>Warung Mas Pri</span>
+    				<table>
+    					<tr>
+    						<td>Email</td>
+    						<td>:</td>
+    						<td>msapri@example.com</td>
+    					</tr>
+    					<tr>
+    						<td>Telp</td>
+    						<td>:</td>
+    						<td>082134556688</td>
+    					</tr>
+    					<tr>
+    						<td>Harga</td>
+    						<td>:</td>
+    						<td><h1>Rp 10.000,-</h1></td>
+    					</tr>
+    				</table>
+    				<button onclick="">Kunjungi Toko</button>
+    				<button onclick="location.href='toko.php'">Kunjungi Toko</button>
+    			</div>
+    		</div>
+  		</div>
+
+	</div>
 
 <div id="detail">
 	<div class="center">

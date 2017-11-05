@@ -12,14 +12,17 @@
 
 <div id="toko">
 	<div class="bg">
-		<img src="assets/img/toko.jpg" class="img">
+		<img src="assets/img/toko-mendoan.jpg" class="img">
 	</div>
-	<div class="tentang">
+	<div class="tentang" style="float: left;">
 		<div class="title">
-			<h1>Warung Bu Umi</h1>
-			<h2>JL.D.I.Panjaitan No 128</h2>
+			<h1>Mendoan Mas Pri</h1>
+			<h2>JL.D.I.Panjaitan No 125</h2>
 		</div>
-		<div class="pemilik">Ibu Umi</div>
+		<div class="title" style="float: right;">
+			<h1 style="margin-right: 150px;">Mas Pri</h1>
+			<h2 style="margin-right: 150px;">081234556688</h2>
+		</div>
 	</div>
 	<div class="center" style="padding-bottom: 50px;">
 		<div class="produk-title">Produk</div>

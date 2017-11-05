@@ -14,7 +14,6 @@
 				<li><a href="beranda.php">Home</a></li>
 				<li><a href="makananKhas.php">Makanan Khas</a></li>
 				<li><a href="minumanKhas.php">Minuman Khas</a></li>
-				<li><a href="kontak.php">Kontak</a></li>
 				<li><a href="daftar.php">Masuk</a></li>
 			</ul>
 		</div>

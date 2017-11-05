@@ -7,6 +7,10 @@ var btn = document.getElementsByClassName("toko-list");
 // Get the <span> element that closes the modal
 var span = document.getElementsByClassName("close")[0];
 
+var btnHub = document.getElementsByClassName("btn");
+
+var hub = document.getElementsById("hub");
+
 // When the user clicks the button, open the modal 
 btn[0].onclick = function() {
     modal.style.display = "block";
@@ -21,5 +25,8 @@ span.onclick = function() {
 window.onclick = function(event) {
     if (event.target == modal) {
         modal.style.display = "none";
+    }
+    if (event.target == hub){
+    	hub.style.display = "none";
     }
 }
