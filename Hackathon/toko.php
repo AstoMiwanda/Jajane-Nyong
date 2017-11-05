@@ -21,6 +21,130 @@
 		</div>
 		<div class="pemilik">Ibu Umi</div>
 	</div>
+	<div class="center" style="padding-bottom: 50px;">
+		<div class="produk-title">Produk</div>
+		<div class="produk-list">
+			<div class="produk-box">
+				<img src="assets/img/mendoan.jpg" class="img">
+				<div class="produk-title">Mendoan</div>
+				<div class="produk-harga">Rp 1.000,-</div>
+				<div class="produk-bintang">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+				</div>
+			</div>
+
+			<div class="produk-box">
+				<img src="assets/img/mendoan.jpg" class="img">
+				<div class="produk-title">Mendoan</div>
+				<div class="produk-harga">Rp 1.000,-</div>
+				<div class="produk-bintang">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+				</div>
+			</div>
+
+			<div class="produk-box">
+				<img src="assets/img/mendoan.jpg" class="img">
+				<div class="produk-title">Mendoan</div>
+				<div class="produk-harga">Rp 1.000,-</div>
+				<div class="produk-bintang">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+				</div>
+			</div>
+
+			<div class="produk-box">
+				<img src="assets/img/mendoan.jpg" class="img">
+				<div class="produk-title">Mendoan</div>
+				<div class="produk-harga">Rp 1.000,-</div>
+				<div class="produk-bintang">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+				</div>
+			</div>
+
+			<div class="produk-box">
+				<img src="assets/img/mendoan.jpg" class="img">
+				<div class="produk-title">Mendoan</div>
+				<div class="produk-harga">Rp 1.000,-</div>
+				<div class="produk-bintang">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+				</div>
+			</div>
+
+			<div class="produk-box">
+				<img src="assets/img/mendoan.jpg" class="img">
+				<div class="produk-title">Mendoan</div>
+				<div class="produk-harga">Rp 1.000,-</div>
+				<div class="produk-bintang">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+				</div>
+			</div>
+
+			<div class="produk-box">
+				<img src="assets/img/mendoan.jpg" class="img">
+				<div class="produk-title">Mendoan</div>
+				<div class="produk-harga">Rp 1.000,-</div>
+				<div class="produk-bintang">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+				</div>
+			</div>
+
+			<div class="produk-box">
+				<img src="assets/img/mendoan.jpg" class="img">
+				<div class="produk-title">Mendoan</div>
+				<div class="produk-harga">Rp 1.000,-</div>
+				<div class="produk-bintang">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+				</div>
+			</div>
+
+			<div class="produk-box">
+				<img src="assets/img/mendoan.jpg" class="img">
+				<div class="produk-title">Mendoan</div>
+				<div class="produk-harga">Rp 1.000,-</div>
+				<div class="produk-bintang">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+				</div>
+			</div>
+
+			<div class="produk-box">
+				<img src="assets/img/mendoan.jpg" class="img">
+				<div class="produk-title">Mendoan</div>
+				<div class="produk-harga">Rp 1.000,-</div>
+				<div class="produk-bintang">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+					<img src="assets/img/bintang.png" class="produk-ranting">
+				</div>
+			</div>
+		</div>
+	</div>
 	<div class="clear"></div>
 </div>
 
